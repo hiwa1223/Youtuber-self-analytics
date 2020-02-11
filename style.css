@@ -38,10 +38,10 @@ body {
   display: block;
   padding: 20px 60px;
   text-align: center;
-  background-color: #2791d4;
+  background-color: #c4302b;
   font-weight: 600;
   font-size: 18px;
-  border: 2px solid #2791d4;
+  border: 2px solid #c4302b;
   text-decoration: none;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -50,7 +50,7 @@ body {
  
 .choose_box ul li a:hover {
    background-color: #fff;
-  color: #2791d4;
+  color: #c4302b;
     -webkit-transition: 0.7s;
     -moz-transition: 0.7s;
     -o-transition: 0.7s;
@@ -73,8 +73,9 @@ h4 {
 .fit {
   position: absolute;
   left: 0px;
-  top: 20px;
+  top: 120px;
   width: 100%;
+  color: #787878;
 }
 #q_06 span,#q_07 span {
   display: block;
@@ -84,4 +85,20 @@ h4 {
   display: block;
   width:100%;
   text-align: center;
+}
+
+.question{
+  text-align: center;
+  margin: 60px;
+  font-size: 40px;
+  font-weight: 600;
+  color :#787878
+}
+
+.header{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600; 
+  color:#c4302b;
+  padding-top: 30px;
 }
