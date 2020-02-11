@@ -67,7 +67,7 @@ h4 {
     font-weight: 600;
     color: #fff;
     text-align: center;
-  background-color: #C00003;
+  background-color: #c4302b;
   }
  
 .fit {
@@ -101,4 +101,25 @@ h4 {
   font-weight: 600; 
   color:#c4302b;
   padding-top: 30px;
+}
+
+.image{
+  text-align:center;
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 3%;
+  display: flex;
+}
+
+.youtuber-image{
+  margin-right: 5%;
+  width: 33%;
+  height: 33%;
+}
+
+.text{
+  font-size: 20px;
+  display: block;
+  font-weight: 600;
 }
