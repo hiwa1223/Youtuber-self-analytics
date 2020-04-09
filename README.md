@@ -27,9 +27,15 @@ SNS等で拡散されやすい、気軽に触って頂いて楽しめるアプ�
 
 タイプ1：改革する人　→ Hikaru
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9C%E3%81%AF%E3%81%97%E3%82%99%E3%82%81%E3%81%97%E3%82%83%E3%81%A1%E3%82%87%E3%83%BC.png)
+
 タイプ2：助ける人　→ はじめしゃちょー
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9C%E3%81%AF%E3%81%97%E3%82%99%E3%82%81%E3%81%97%E3%82%83%E3%81%A1%E3%82%87%E3%83%BC.png)
+
 タイプ3：達成する人　→ Hikakin
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9CHIKAKIN.png)
 
 タイプ4：個性を求める人　→ Roland
 
