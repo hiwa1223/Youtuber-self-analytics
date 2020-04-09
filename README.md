@@ -39,21 +39,31 @@ SNS等で拡散されやすい、気軽に触って頂いて楽しめるアプ�
 
 タイプ4：個性を求める人　→ Roland
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9CROLAND.png)
+
 タイプ5：調べる人　→ メンタリストDaigo
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/Youtuber%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%90%EF%BC%93.png)
 
 タイプ6：信頼を求める人　→ マコなり社長
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9C%E3%83%9E%E3%82%B3%E3%81%AA%E3%82%8A%E7%A4%BE%E9%95%B7.png)
+
 タイプ7：熱中する人　→ DJ社長
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9CDJ%E7%A4%BE%E9%95%B7.png)
 
 タイプ8：挑戦する人　→ ラファエル
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9C%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB.png)
+
 タイプ9：平和を好む人　→ 水溜りボンド
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/%E8%A8%BA%E6%96%AD%E7%B5%90%E6%9E%9C%E6%B0%B4%E6%BA%9C%E3%82%8A%E3%83%9B%E3%82%99%E3%83%B3%E3%83%88%E3%82%99.png)
 
 なお、設問内容はオリジナルです。
 
 ただし、回答内容に対して、タイプが一致するように工夫しました。
-
-![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/Youtuber%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%90%EF%BC%93.png)
 
 ## 4.環境
 
