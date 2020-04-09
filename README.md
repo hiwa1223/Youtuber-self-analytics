@@ -1,22 +1,29 @@
 # README
 
-人気YouTuberを題材にした診断ツールです。
+1.アプリ説明
+
+YouTuberを題材にした診断ツールです。
 
 SNS等で拡散されやすい、気軽に触って頂いて楽しめるアプリケーションを開発致しました。
 
 ![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/YouTuber%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%901.jpg)
 
-現在は、Twitter経由での認知度拡大を実施しています。
-
-認知度が上がれば、広告による収益獲得を目指していきたいと思います。
-
 アイディアの元になっているのは、エニアグラムと呼ばれる心理テストです。
 
 就職活動などで利用される診断ツールの一つです。
 
-エニアグラムでは、人間を９つのタイプにカテゴライズして心理分析します。
 
-当アプリでは、その９タイプをそれぞれ人気YouTuberに当てはめて診断することしました。
+2.使い方
+
+スタートボタンを押すと設問が表示されますので、それに順次回答していきます。
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/Youtube%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%902.png)
+
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/Youtuber%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%904.png)
+
+3.診断結果について
+
+当アプリでは、エニアグラムで使用される９タイプをそれぞれ人気YouTuberに当てはめて診断することしました。
 
 タイプ1：改革する人　→ Hikaru
 
