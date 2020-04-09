@@ -4,6 +4,8 @@
 
 SNS等で拡散されやすい、気軽に触って頂いて楽しめるアプリケーションを開発致しました。
 
+![画像名](https://github.com/hiwa1223/Youtuber-self-analytics/blob/master/YouTuber%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%901.jpg)
+
 現在は、Twitter経由での認知度拡大を実施しています。
 
 認知度が上がれば、広告による収益獲得を目指していきたいと思います。
